@@ -1,8 +1,9 @@
-# Gods-Eye 👁️🚁
+# Gods-Eye
 
 A swarm of autonomous drones controlled by **one central brain**.
 
 Think: a bunch of drones flying together like a hive mind. They share what they see instantly, so nothing gets missed. Real-time aerial monitoring, tracking, and area awareness.
+<img width="1722" height="1389" alt="image" src="https://github.com/user-attachments/assets/cf98f34e-122e-44d0-b2e8-c56a23257c51" />
 
 ---
 

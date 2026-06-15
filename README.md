@@ -1,6 +1,47 @@
-# Gods-Eye
-A swarm of autonomous drones coordinated by a central control system ("one brain") that can monitor an area, share information between drones, and provide real-time aerial observation.
+# Gods-Eye 👁️🚁
 
+A swarm of autonomous drones controlled by **one central brain**.
 
-## Nothing to see here yet!!!
-## Still Working on it hehe!
+Think: a bunch of drones flying together like a hive mind. They share what they see instantly, so nothing gets missed. Real-time aerial monitoring, tracking, and area awareness.
+
+---
+
+## What it does (when it actually works 💀)
+
+- Multiple drones = one coordinated system  
+- One “brain” tells everything what to do  
+- Drones share live info with each other  
+- Covers an area like a floating surveillance net  
+- Real-time aerial view of whatever you’re watching  
+
+---
+
+## Why I made this
+
+I just wanted to see if I could build something that feels like a **sci-fi swarm system**. Like drones acting less like separate machines and more like one living thing.
+
+Also yeah… it just looks cool.
+
+---
+
+## Current status
+
+Still cooking  
+Right now it’s more of an idea + early experiments than a full system.
+
+Stuff I’m working on:
+- Swarm coordination logic  
+- Communication between drones  
+- Making the “one brain” actually smart and not dumb 😭  
+
+---
+
+## Future ideas (maybe)
+
+- Auto tracking moving objects  
+- Mapping an area in real time  
+- Simulation mode before real drones  
+- “Danger detection” type stuff  
+- Basically Skynet but… chill
+
+---

@@ -6,6 +6,16 @@ Think: a bunch of drones flying together like a hive mind. They share what they 
 <img width="1722" height="1389" alt="image" src="https://github.com/user-attachments/assets/cf98f34e-122e-44d0-b2e8-c56a23257c51" />
 <img width="886" height="626" alt="image" src="https://github.com/user-attachments/assets/aa3907d3-9aed-4d1f-a512-868c35729128" />
 
+# Table of Contents
+
+- Firmware
+- PCB Design
+  - Schematic
+  - PCB Layout
+- Gerber Files
+- BOM (Bill of Materials)
+- PVC Blueprint
+
 ---
 
 ## What it does (when it actually works 💀)
